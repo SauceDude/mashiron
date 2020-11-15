@@ -1,7 +1,7 @@
-# Mashiron
-Mashiron is a Discord Bot that can Complete Moderation/Utility Commands to Fun and NSFW Commands
 
-# The Mashiron Bot 
+![Mashiron](https://i.imgur.com/qTOBFTS.png)
+
+# Mashiron Bot 
 
 ## About:
 
