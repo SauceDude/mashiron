@@ -1,7 +1,7 @@
 
 ![Mashiron](https://i.imgur.com/qTOBFTS.png)
 
-[![Bots for Discord](https://botsfordiscord.com/api/bot/718520089468731444/widget)](https://botsfordiscord.com/bots/718520089468731444)
+[![Bots for Discord](https://botsfordiscord.com/api/bot/718520089468731444/widget?mode=dark)](https://botsfordiscord.com/bots/718520089468731444)
 
 # Mashiron Bot 
 
